@@ -20,7 +20,6 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
@@ -94,10 +93,6 @@ In order to run this project you need to have a code editor and a browser.
 
 Clone my GitHub repository inside a local folder.
 
-### Install <a name="install"></a>
-
-Run 'npm install --save-dev hint@7.x' and,
-'npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x' to install project dependencies.
 
 ### Usage <a name="usage"></a>
 
