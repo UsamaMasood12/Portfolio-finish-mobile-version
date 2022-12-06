@@ -22,8 +22,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
@@ -90,28 +88,21 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites <a name="prerequisites"></a>
 
-In order to run this project you need to create a repository.
+In order to run this project you need to have a code editor and a browser.
 
 ### Setup <a name="about-project"></a>
 
-Create a .github/workflows folder and add a copy of .github/workflows/linters.yml to that folder.
+Clone my GitHub repository inside a local folder.
 
 ### Install <a name="install"></a>
 
-Run npm install --save-dev hint@7.x
-npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+Run 'npm install --save-dev hint@7.x' and,
+'npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x' to install project dependencies.
 
 ### Usage <a name="usage"></a>
 
-To catch programming errors,stylistic errors,bugs and suspicious constructs.
+In order to use this project, open the "index.html" file on the browser.
 
-### Run tests <a name="run-tests"></a>
-
-npx stylelint "**/*.{css,scss}"
-
-### Deployment <a name="deployment"></a>
-
-You can deploy this project using Chrome Browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
